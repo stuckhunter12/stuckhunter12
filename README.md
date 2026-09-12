@@ -1,5 +1,5 @@
 ## About Me:
-I'm an Engineering student studying Computer Engineering at the Dar es Salaam Institute of Technology (DIT).<br>I'm currently working as an IT Intern at Aga Khan Hospital, where I get hands on experience with real-world IT support and systems. Alongside that, I'm a Software Developer, building web and mobile applications, and I have a growing interest in cybersecurity, AI/ML, and blockchain technology. <br><br>I enjoy solving practical problems, picking up new technologies, and contributing to open-source and collaborative projects. Outside of tech, I'm a passionate Manchester United fan and an avid gamer.
+I'm a Computer Engineering student at the Dar es Salaam Institute of Technology (DIT).<br>I'm currently working as an IT Intern at Aga Khan Hospital, where I get hands on experience with real-world IT support and systems. Alongside that, I'm a Software Developer, building web and mobile applications, and I have a growing interest in cybersecurity, AI/ML, and blockchain technology. <br><br>I enjoy solving practical problems, picking up new technologies, and contributing to open-source and collaborative projects. Outside of tech, I'm a passionate Manchester United fan and an avid gamer.
 
 
 ## 🌐 Socials:
